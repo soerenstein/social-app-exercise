@@ -1,1 +1,1 @@
-# social-app
+# social-app-exercise 
